@@ -1,8 +1,18 @@
 
 void setup(){
-  //some of your code here
+  size (400,400);
 }
 void draw(){
-  //more of your code here
+  fill(0,0,0);
+  circle(280,40,50);
+  fill(0,0,0);
+  circle(120,40,50);
+  fill(0,0,0);
+  ellipse(200,240,270,280);
+  fill(255,255,255);
+  ellipse(200,110,220,200);
+  fill(0,0,0);
+  ellipse(250,90,60,50);
+  ellipse(150,90,60,50);
 }
 
