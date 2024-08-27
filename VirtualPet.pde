@@ -1,8 +1,10 @@
 
-void setup(){
+void setup()
+{
   size (400,400);
 }
-void draw(){
+void draw()
+{
   fill(0,0,0);
   circle(280,40,50);
   fill(0,0,0);
