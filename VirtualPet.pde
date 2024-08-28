@@ -4,6 +4,7 @@ void setup()
 }
 
 void draw(){
+  background(167,226,255);
   fill(0,0,0);
   ellipse(280,40,50,50);
   fill(0,0,0);
