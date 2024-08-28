@@ -54,10 +54,6 @@ void draw(){
   ellipse(103,355,10,10);
   ellipse(115,350,10,10);
   ellipse(127,355,10,10);
-  
-  
-  //belly heart
-  fill(255,178,183);
-  ellipse(200,330,80,80);
+
   
 }
